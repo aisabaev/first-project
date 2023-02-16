@@ -24,6 +24,7 @@ public class Main {
 
    int[] numbers = new int[5];
    numbers[0] = 2;
+   numbers[1] = 3;
 
 
 
